@@ -1,0 +1,8 @@
+/* Styles go here */
+/* Add this to your CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg-purple {
+  background-color: purple; /* You can adjust the color as needed */
+}
